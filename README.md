@@ -1,2 +1,2 @@
 # quick2
-quick
+https://minhazriad.github.io/quick2/
